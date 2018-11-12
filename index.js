@@ -3,6 +3,7 @@ function makeBigorna() {
 	console.log('Editado na develop');
 	console.log('Gui!')
 	console.log('YOLO');
-	console.log('Andre')
+	console.log('Andre');
+	console.log('Sarah');
 }
 
