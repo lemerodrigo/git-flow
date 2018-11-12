@@ -1,4 +1,5 @@
 function makeBigorna() {
-	console.log('Saindo uma bigorna');
+	console.log('Saindo duas bigorna');
 	console.log('Editado na develop');
 }
+
