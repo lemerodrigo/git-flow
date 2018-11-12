@@ -1,4 +1,4 @@
 function makeBigorna() {
-	console.log('Saindo uma bigorna');
-	console.log('Editado na develop');
+  console.log('Mohsan Abbas');
+  console.log('Shukriya Dosto');
 }
